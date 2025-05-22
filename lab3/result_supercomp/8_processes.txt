@@ -1,0 +1,8 @@
+SIZE: 100x100, Processes: 8, Time: 0.00349998 seconds
+SIZE: 200x200, Processes: 8, Time: 0.0210979 seconds
+SIZE: 300x300, Processes: 8, Time: 0.0763209 seconds
+SIZE: 400x400, Processes: 8, Time: 0.171492 seconds
+SIZE: 500x500, Processes: 8, Time: 0.35449 seconds
+SIZE: 1000x1000, Processes: 8, Time: 3.01414 seconds
+SIZE: 1500x1500, Processes: 8, Time: 12.0937 seconds
+SIZE: 2000x2000, Processes: 8, Time: 27.147 seconds
